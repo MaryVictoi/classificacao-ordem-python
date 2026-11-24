@@ -30,17 +30,17 @@ O programa deve receber exatamente **três números inteiros** separados por esp
 
 A resolução utiliza comparações lógicas encadeadas e a estrutura condicional `if / elif / else`. Abaixo está a representação estruturada do algoritmo elaborado na documentação técnica:
 
-![Quadro 1 - Algoritmo para verificação de ordem numérica](img/logica.png)
-*Quadro 1 - Algoritmo para verificação de ordem numérica. Fonte: Elaborado pela autora (2026).*
-
+<div align="center">
+  <img src="codigo.png" alt="Quadro 1 - Algoritmo para verificação de ordem numérica">
+  <br>
+  <em>Quadro 1 - Algoritmo para verificação de ordem numérica. Fonte: Elaborado pela autora (2026).</em>
+</div>
 ---
 
 ## 💻 Código-Fonte
 
 Abaixo está o registro visual do código desenvolvido para a solução e, logo em seguida, o código pronto para execução:
 
-![Figura 1 - Código-fonte em Python para classificação da ordem de três valores inteiros](img/codigo.png)
-*Figura 1 - Código-fonte em Python para classificação da ordem de três valores inteiros. Fonte: Elaborado pela autora (2026).*
 
 ```python
 # Leitura e conversão dos três valores inteiros
