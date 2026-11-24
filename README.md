@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner.png" alt="Banner do Projeto" width="100%">
+</div>
 # 📊 Classificação de Ordem em Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
